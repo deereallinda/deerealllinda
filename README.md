@@ -1,96 +1,77 @@
-Linda Mthembu
+# 👋 Hi, I'm Linda Mthembu
 
-Junior Data Analyst & Business Consultant based in Johannesburg, South Africa.
-I hold a Bachelor of Commerce in Information Systems and have hands-on experience in data analysis, project delivery, business processes, and reporting.
+**Junior Data Analyst | Python • SQL • Power BI | Aspiring Data Engineer**  
+Johannesburg, South Africa  
 
-I am passionate about solving real business problems through data, automation, and scalable analytical solutions. My strengths include structured problem-solving, stakeholder management, and transforming raw data into actionable insights. I am currently expanding my technical skillset as I move toward Data Engineering.
+I am a data-driven problem solver with a background in Information Systems and hands-on experience in analytics, business consulting, and process improvement. I enjoy turning raw data into meaningful insights and building solutions that support decision-making and operational efficiency.
 
-What I Do
+---
 
-Data cleaning, transformation, and exploratory analysis
+## 🔧 Technical Skills
 
-Dashboard creation and automated insights (Excel, Power BI, Python)
+### **Programming & Data Tools**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-Business process analysis and documentation
+### **Data Engineering Foundations**
+- ETL Concepts  
+- Data Pipelines  
+- Azure Fundamentals  
+- Version Control (Git & GitHub)
 
-Supporting project delivery in banking & financial services
+### **Business & Analytical Skills**
+- Data Cleaning & Exploration  
+- Dashboarding & Reporting  
+- Requirements Gathering  
+- Documentation & Workflow Analysis  
+- Process Improvement  
 
-Developing data-driven operational recommendations
+---
 
-Technical Skills
-Data Analysis
+## 📌 Featured Project
 
-Python: Pandas, NumPy, Matplotlib, Seaborn
+### 🚕 **Uber NYC 2015 – Exploratory Data Analysis**  
+A full end-to-end analysis of Uber trip data from NYC (2014–2015).  
+Includes:
+- Data cleaning & preprocessing  
+- Time-series analysis  
+- Geospatial heatmaps  
+- Automated pivot generation  
+- Visual exploration in Jupyter  
 
-Power BI (reports, dashboards, DAX)
+🔗 **Repository:** https://github.com/deereallinda/uber-nyc-2015-analysis
 
-Excel (advanced functions, automation, analytics)
+---
 
-Databases & Querying
+## 🎓 Education
 
-SQL (beginner–intermediate)
+**Bachelor of Commerce in Information Systems**  
+University of Cape Town (Completed 2024)  
+Focus areas: data management, systems analysis, business process modelling, information systems development.
 
-Data Engineering Foundations
+---
 
-ETL concepts
+## 💼 Professional Interests
+- Data Analysis & Business Intelligence  
+- Data Engineering & Cloud  
+- Automation & Process Optimization  
+- Machine Learning (beginner level)
 
-Basic pipeline design
+---
 
-Cloud fundamentals (Microsoft Azure)
+## 🌱 Current Goals
+- Building deeper skills in SQL & Python for analytics  
+- Developing data engineering foundations using Azure  
+- Expanding my portfolio with real-world analysis and automation projects  
+- Preparing for the **PL-300** and **DP-900** certifications
 
-Development & Tools
+---
 
-Git & GitHub
+## 📫 Connect With Me
 
-Jupyter Notebooks
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linda-mthembu-66b877270/)
 
-VS Code
-
-Business & Analysis Skills
-
-Requirements Gathering
-
-Business Analysis
-
-Process Mapping
-
-Documentation & Reporting
-
-Projects
-Uber NYC 2015 – Exploratory Data Analysis
-
-End-to-end analysis of Uber trip data from NYC (2014–2015).
-Includes data cleaning, preprocessing, time-series analysis, geospatial heatmaps, and automated pivot table generation.
-Repository: https://github.com/deereallinda/uber-nyc-2015-analysis
-
-(More projects will be added as I expand my portfolio.)
-
-Education
-
-Bachelor of Commerce in Information Systems
-University of Cape Town
-Completed in 2024
-
-Key areas: data management, systems analysis, database design, information systems development, business process modelling.
-
-Professional Interests
-
-Data Analysis & Reporting
-
-Data Engineering & Cloud
-
-Machine Learning (beginner level)
-
-Business Intelligence
-
-Process Improvement & Automation
-
-Career Goal
-
-To grow into a Data Engineer / Analytics Consultant, building scalable data solutions and delivering insights that create measurable business value especially in banking, technology, and financial services.
-
-Connect with Me
-
-LinkedIn: https://www.linkedin.com/in/linda-mthembu-66b877270/
-
-Email: lindamthembu36@gmail.com
